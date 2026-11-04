@@ -3,7 +3,7 @@
 [Problem Statement](#problem-statement)
 [Data Source](#data-source)
 [Tools](#tools)
-[Data Cleaning and Preparation](#data-cleaning-and-preparations)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
 []
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres. 
@@ -19,6 +19,7 @@ Movie Data: The primary dataset used for this analysis is the "Movie Data Homewo
 2. Excel - I used Excel for Data Analysis
 3. Pivot Table - for Creating the Dashboard and Visualizations
 ### Data Cleaning and Preparation
-1. Data loading and inspection.
-2. Handling errors and missing values.
-3. Data cleaning and formatting. The Excel file after the data cleaning & preparation process can be downloaded here: [Ready to Use: Movie Dashboard.xlsx](https://github.com/user-attachments/files/34394430/Movie.Dashboard.xlsx)
+- Data loading and inspection.
+- Handling errors and missing values.
+- Data cleaning and formatting. The Excel file after the data cleaning & preparation process can be downloaded here: [Ready to Use: Movie Dashboard.xlsx](https://github.com/user-attachments/files/34394430/Movie.Dashboard.xlsx)
+### Dashboard
