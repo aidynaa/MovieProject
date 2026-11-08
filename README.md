@@ -4,7 +4,10 @@
 [Data Source](#data-source)
 [Tools](#tools)
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-[]
+[Dashboard](#dashboard)
+[Challenges](#challenges)
+[Recommendation](#recommendation)
+
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres. 
 - The best-performing actors
@@ -31,4 +34,7 @@ Movie Data: The primary dataset used for this analysis is the "Movie Data Homewo
 {{"IndexColumn", each Table.AddIndexColumn(_,"Index",1,1,Int64.Type)}})
 ```
 ### Recommendation
-Top 5 genres are Action, Comedy, Drama, Sci-Fi, and Adventure. I would recommend producing one of these genres, as they brought more box office revenue based on the data 20212 to 2016. 
+The top 5 genres are Action, Comedy, Drama, Sci-Fi, and Adventure. I would recommend producing one of these genres, as they brought more box office revenue based on the data 20212 to 2016. 
+
+<img width="369" height="133" alt="Screenshot 2026-11-05 at 20 22 47" src="https://github.com/user-attachments/assets/e60c6751-bb98-4e89-a9d2-3693b1223529" />
+
