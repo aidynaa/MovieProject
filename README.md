@@ -31,4 +31,4 @@ Movie Data: The primary dataset used for this analysis is the "Movie Data Homewo
 {{"IndexColumn", each Table.AddIndexColumn(_,"Index",1,1,Int64.Type)}})
 ```
 ### Recommendation
-Top 5 genres are Action, Comedy,
+Top 5 genres are Action, Comedy, Drama, Sci-Fi, and Adventure. I would recommend producing one of these genres, as they brought more box office revenue based on the data 20212 to 2016. 
