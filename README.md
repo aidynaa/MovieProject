@@ -1,4 +1,4 @@
-# MovieProject
+# Movie Project Dashboard
 ## Table of Content
 [Problem Statement](#problem-statement)
 [Data Source](#data-source)
